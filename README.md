@@ -13,7 +13,9 @@
   - maven test locally in intelliJ
 - Now push 
 
+### Add your local tomcat server
 ### In Utils Package, run your SetupTestUsers
+
 
 ### Maven test failed and how we solved
 
